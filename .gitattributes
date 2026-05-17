@@ -1,1 +1,8 @@
-* linguist-language=DAX
+# 1. Ép GitHub phải quét các định dạng file này
+*.pbix linguist-binary=false
+*.xlsx linguist-binary=false
+*.pbix linguist-detectable=true
+*.xlsx linguist-detectable=true
+
+# 2. Gán ngôn ngữ cho từng đuôi file để hiện cả 2 tên
+*.xlsx linguist-language=DAX
