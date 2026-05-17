@@ -1,2 +1,4 @@
-* linguist-language=PowerBuilder
-* linguist-language=DAX
+*.pbix linguist-language=PowerBuilder
+*.csv linguist-language=DAX
+*.xlsx linguist-language=DAX
+*.md linguist-language=DAX
