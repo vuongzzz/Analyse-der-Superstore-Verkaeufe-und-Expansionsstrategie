@@ -13,24 +13,8 @@
 ### 3. Geschäftsfragen
 - Präsentation der Geschäftssituation auf internationalen Märkten für den Senior Manager.
 - Hervorhebung wichtiger Indikatoren für den Senior Manager, um zu entscheiden, in welchen Märkten expandiert werden soll und welche Produkte für jeden internationalen Markt geeignet sind.
-## II. Design Thinking Methode
-**Hier sind die fünf Schritte des Design Thinking:**
-### Schritt 1 - Empathize
-![image](https://user-images.githubusercontent.com/101726623/235493835-edca68d7-d0b1-4f1c-9ca7-1d7da3e30ac8.png) 
 
-### Schritt 2 - Definieren
-![image](https://user-images.githubusercontent.com/101726623/235493010-91e6a488-f9b2-4570-9837-b7e945f9fc72.png)
-
-### Schritt 3 - Ideenfindung
-![image](https://user-images.githubusercontent.com/101726623/235493072-e52069eb-196d-40d6-8191-0f116fc00249.png)
-
-### Schritt 4 - Prototyping
-![image](https://user-images.githubusercontent.com/101726623/235493217-979bea4d-019b-414e-a94b-f1794b95eccf.png)
-
-### Schritt 5 - Überprüfen
-![image](https://user-images.githubusercontent.com/101726623/235493257-a4fff02c-da02-4e4c-87bf-62b454905e67.png)
-
-## III. Visualisierung
+## II. Visualisierung
 ### 1. Übersicht
 <img width="1410" height="810" alt="summary" src="https://github.com/user-attachments/assets/47d0d865-77b7-4f6c-952f-320da172dc3b" />
 
@@ -40,7 +24,7 @@
 ### 3. Produkte
 <img width="1406" height="802" alt="product" src="https://github.com/user-attachments/assets/1365825d-883e-4f94-b78d-c42d67919ba4" />
 
-## IV. Erkenntnisse
+## III. Erkenntnisse
 1, Unsere 5 größten Märkte sind: **APAC, LATAM, EU, US, EMEA**.
 
 2, Beliebte Kunden sind "Consumer" und "Corporate", die zusammen etwa **82%** ausmachen.
@@ -67,7 +51,7 @@
 * Was das Segment betrifft, gilt das Gleiche für die ROS.
 * **Canada** ist der Markt, der die höchste ROS bringt.
 
-## V. Empfehlungen
+## IV. Empfehlungen
 **Marktexpansionsstrategie und Schlüsselprodukte**
 
 1, Wenn wir über viel Kapital verfügen, können wir uns auf die Entwicklung der Regionen **APAC, US, EU, LATAM** konzentrieren, genauer gesagt auf die Marktregionen: **Central + North EU, APAC, West + East US, North LATAM**.
