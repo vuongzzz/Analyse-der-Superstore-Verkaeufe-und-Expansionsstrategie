@@ -32,13 +32,13 @@
 
 ## III. Visualisierung
 ### 1. Übersicht
-![image](https://user-images.githubusercontent.com/101726623/235497110-a732bd29-f481-457b-9021-e968080ab67e.png)
+<img width="1410" height="810" alt="summary" src="https://github.com/user-attachments/assets/47d0d865-77b7-4f6c-952f-320da172dc3b" />
 
 ### 2. Markt
-![image](https://user-images.githubusercontent.com/101726623/235497166-ca401479-7edb-4cf0-9b7a-d40099037922.png)
+<img width="1407" height="806" alt="market" src="https://github.com/user-attachments/assets/70db7fda-0c8b-486f-a239-215a8ca86e90" />
 
 ### 3. Produkte
-![image](https://user-images.githubusercontent.com/101726623/235497264-43237888-b261-4531-9d93-0922cd2261ad.png)
+<img width="1406" height="802" alt="product" src="https://github.com/user-attachments/assets/1365825d-883e-4f94-b78d-c42d67919ba4" />
 
 ## IV. Erkenntnisse
 1, Unsere 5 größten Märkte sind: **APAC, LATAM, EU, US, EMEA**.
